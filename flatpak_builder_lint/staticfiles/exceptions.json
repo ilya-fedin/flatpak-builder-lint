@@ -8357,7 +8357,7 @@
     },
     "page.codeberg.JakobDev.jdAppStreamEdit": {
         "stable": {
-            "finish-args-flatpak-spawn-access": "required for preview in Gnome Software"
+            "finish-args-host-tmp-access": "Needs to share files with programs outside the Sandbox"
         }
     },
     "page.codeberg.JakobDev.jdDBusDebugger": {

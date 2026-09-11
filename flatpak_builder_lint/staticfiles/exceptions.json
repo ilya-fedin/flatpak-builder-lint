@@ -3812,6 +3812,7 @@
             "flathub-json-automerge-enabled": "Telegram enforces client version cutoffs; stale builds lose server connectivity",
             "module-qt-checker-tracks-commits": "Manually updated via upstream deps file fetched from app's tag",
             "module-tde2e-checker-tracks-commits": "Manually updated via upstream deps file fetched from app's tag",
+            "module-tdesktop_rust-checker-tracks-commits": "Manually updated via upstream deps file fetched from app's tag",
             "module-tg_owt-checker-tracks-commits": "Manually updated via upstream deps file fetched from app's tag"
         }
     },
@@ -3987,6 +3988,7 @@
             "flathub-json-automerge-enabled": "Predates the linter rule",
             "module-qt-checker-tracks-commits": "Manually updated via upstream deps file fetched from app's tag",
             "module-tde2e-checker-tracks-commits": "Manually updated via upstream deps file fetched from app's tag",
+            "module-tdesktop_rust-checker-tracks-commits": "Manually updated via upstream deps file fetched from app's tag",
             "module-tg_owt-checker-tracks-commits": "Manually updated, grandfathered"
         }
     },
@@ -8149,6 +8151,7 @@
             "flathub-json-automerge-enabled": "Predates the linter rule",
             "module-qt-checker-tracks-commits": "Manually updated via upstream deps file fetched from app's tag",
             "module-tde2e-checker-tracks-commits": "Manually updated",
+            "module-tdesktop_rust-checker-tracks-commits": "Manually updated via upstream deps file fetched from app's tag",
             "module-tg_owt-checker-tracks-commits": "Manually updated, grandfathered"
         }
     },
